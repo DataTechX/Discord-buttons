@@ -15,4 +15,4 @@
 
 # Discord
 
-----------------------
+![invites](https://user-images.githubusercontent.com/69198341/119872656-92339700-bed8-11eb-9b97-f4d30ef31243.png)
